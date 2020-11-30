@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  Azure Policy: The Unsung Hero of Cloud Governance and Security
+title:  Azure Policy - The Unsung Hero of Cloud Governance and Security
 excerpt: Using Azure Policy framework for cloud governance and security
 comments: true
 ---
+
 
 # Azure Policy: The Unsung Hero of Cloud Governance and Security
 
