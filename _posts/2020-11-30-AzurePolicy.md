@@ -14,7 +14,7 @@ There are lots of things we need to consider while using the cloud such as Acces
 To fully make use of the cloud efficiently and securely, one must consider the two most important pillars i.e. **Cloud Governance and Security**. To manage the cloud environment properly, one must adhere to some practices or policies which will help their businesses to operate smoothly and securely.
 
 What drives your need for policy enforcement?
-   - Maintain security and performance consistency
+  - Maintain security and performance consistency
   - Regulatory Compliance
   - Enforce enterprise-wide design principles
   - Controlling cost
@@ -91,7 +91,7 @@ Some examples of built-in Azure policies for compliance needs,
 
 The Azure policy provides built-in regulator compliances like Azure Security Center, CIS Microsoft Azure Foundation, HIPAA HITRUST 9.2, NIST SP 800-53 R4, NIST SP 800-171 R2
 
-![](../images/AzurePolicy/AzurePolicy-Sample.png)
+![](../images/AzurePolicy/AzurePolicy-Compliance.png)
 
 
 ### Security needs
