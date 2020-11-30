@@ -413,6 +413,9 @@ nav {
   padding-bottom: 134px;
 }
 
+.wrapper-main .container, .wrapper-masthead .container {
+  max-width: 940px
+}
 .wrapper-footer {
   position: absolute;
   bottom: 0;
