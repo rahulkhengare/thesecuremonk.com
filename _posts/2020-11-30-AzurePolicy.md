@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Azure Policy - The Unsung Hero of Cloud Governance and Security
-excerpt: In today’s world Cloud becoming so popular among many businesses due to its wide sets of features like as it is agility, speed, scalability, and reliability, etc. Though cloud has humongous potential to change how different  business operates, it has some downsides too if not handled or governed properly. There are lots of things we need to consider while using the cloud such as Access Management, Security, Cloud spend that have considerable impact on the business and how it operates. Azure provides Azure Policy free service which helps in cloud governance and security at scale.
+excerpt: In today’s world cloud becoming so popular among many businesses due to its wide sets of features like agility, speed, scalability, and reliability, etc. Though cloud has humongous potential to change how different  business operates, it has some downsides too if not handled or governed properly. There are lots of things we need to consider while using the cloud such as Access Management, Security, Cloud spend that have considerable impact on the business and how it operates. Azure provides Azure Policy free service which helps in cloud governance and security at scale.
 comments: true
 ---
 
-In today’s world Cloud becoming so popular among many businesses due to its wide sets of features like as it is agility, speed, scalability, and reliability, etc. Though cloud has humongous potential to change how different  business operates, it has some downsides too if not handled or governed properly.
+In today’s world cloud becoming so popular among many businesses due to its wide sets of features like agility, speed, scalability, and reliability, etc. Though cloud has humongous potential to change how different  business operates, it has some downsides too if not handled or governed properly.
 
 In a cloud world, it is very easy to provision 1000 virtual machines or storage accounts with just a click of a button within 5-10 minutes. However, it is also important to focus on who has the access to resources? who is creating and using them? what are the security configurations present on them? what if resources provisioned are not able protect the data present inside properly? what will be cost if somebody accidentally creates 10000 resources?
 
@@ -38,10 +38,13 @@ Here, Azure policy is in the form of condition and effect. **If block** contains
 Generally, Azure policies are differentiated into main 3 categories depending on the effect/actions of the policy.
 
 -   **Audit Policies**
+
     The policy with **Audit** and **AuditIfNotExists** effect falls under this category. It just audits the resources for configurations and shows the compliant and non-compliant resources. For e.g. If you want to just audit all the VMs that do not use managed disks.
 -   **Preventative Policies**
+
     The policy with the **Deny** effect considered as preventative policies. It helps to set up policies that do not allow resource creation if resources are not compliant with the checks of the policies. E.g. If you do not want to allow users to provision any resources in the West US region then you use the policy with Deny effect.
 -   **Remediation Policies**
+
     The policies with **DeployIfNotExists**, **Append,** or **Modify** considered as remediation policies as it performs the remediation action in case resource is non-compliant. E.g. *“Deploy Log Analytics agent for
     Windows VMs”* policy deploys the log analytics agent whenever the user creates a windows VM within the Azure environment.
 
