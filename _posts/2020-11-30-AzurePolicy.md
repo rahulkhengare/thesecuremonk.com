@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Azure Policy - The Unsung Hero of Cloud Governance and Security
-excerpt: This article is written as an official contribution to the [Festive Tech Calendar 2020](https://festivetechcalendar.com). An online month-long event by the communities, for the communities. In this article, I will talk about how the Azure Policy framework can help organizations to achieve their cloud governance and security needs. In today’s world cloud becoming so popular among many businesses due to its wide sets of features like agility, speed, scalability, and reliability, etc. Though cloud has humongous potential to change how different  business operates, it has some downsides too if not handled or governed properly. There are lots of things we need to consider while using the cloud such as Access Management, Security, Cloud spend that have considerable impact on the business and how it operates. Azure provides Azure Policy free service which helps in cloud governance and security at scale.
+excerpt: In today’s world cloud becoming so popular among many businesses due to its wide sets of features like agility, speed, scalability, and reliability, etc. Though cloud has humongous potential to change how different  business operates, it has some downsides too if not handled or governed properly. There are lots of things we need to consider while using the cloud such as Access Management, Security, Cloud spend that have considerable impact on the business and how it operates. Azure provides Azure Policy free service which helps in cloud governance and security at scale.
 comments: true
 ---
 
