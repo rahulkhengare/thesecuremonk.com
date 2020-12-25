@@ -1,13 +1,12 @@
 ---
 layout: page
-title: 
+title: Rahul Khengare
 permalink: /about/
 ---
 
-## Rahul Khengare
-#### Learn, Automate, Repeat
-
 ![](../images/rahul.jpg)
+
+### Learn, Automate, Repeat
 
 Hi, I'm a software professional with extensive hands-on experience in Architecting/Designing IaaS, PaaS, SaaS-based cloud Solutions on Azure/AWS/GCP with a strong technical and operational background.
 
