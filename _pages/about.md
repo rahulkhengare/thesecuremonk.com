@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About Me
 permalink: /about/
 ---
 
 ## Rahul Khengare
-### Learn, Automate, Repeat
+#### Learn, Automate, Repeat
 
 ![](../images/rahul.jpg)
 
